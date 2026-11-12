@@ -356,6 +356,8 @@ Implicaciones para UX:
 - Cantidad comprada, proveedor y documento de compra no están confirmados para el MVP.
 - `unidad_negocio` no se utiliza como filtro principal porque actualmente solo contiene un valor.
 
+Para una síntesis de contratos pendientes y pasos de integración, consulta la [Guía breve de integración UX/Frontend con Backend](./INTEGRACION-BACKEND.md).
+
 ---
 
 ## Estructura de la carpeta UX
